@@ -2,23 +2,24 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: #717680;
+  text-align: center;
   padding: 20px;
   color: white;
 }
 
-.App-intro {
-  font-size: large;
+.App-content {
+  height: auto;
+  text-align: center;
+  background-color: #717680;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.Article{
+  height: 150px;
+  width: 500px;
+  padding: 5%;
+  background-color: #A9B0BE;
+  margin: 0 auto;
+  margin-bottom: 5px;
 }
